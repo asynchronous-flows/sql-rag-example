@@ -15,6 +15,7 @@ Built with `asyncflows`
 This example demonstrates asking questions about a SQL database, and answering them with the results of generated SQL queries.
 
 <div align="center">
+<img width="1368" alt="sql rag" src="https://github.com/asynchronous-flows/sql-rag-example/assets/24586651/4f43c7e4-e32a-43f7-b460-33144fdcf5c1">
 </div>
 
 ## Running the Example
